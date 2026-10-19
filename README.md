@@ -1,5 +1,3 @@
-# nsw-transport-dashboard
-Tableau dashboard analysing NSW public transport performance and usage trends.
 # NSW Public Transport Analysis | Tableau Dashboard
 
 **Transport Demand Analysis | Trend Monitoring | Operational Insights | Business Intelligence**
